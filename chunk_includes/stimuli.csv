@@ -1,0 +1,7 @@
+group,condition,item_no,stimulus,question
+1,embed,1,"This is the first item. Please read me.","What do you think bla bla?"
+2,pronoun,1,"This is the first item. Please read me.","In my opinion bla ba?"
+3,control,1,"This is the first item. Please read me.","What is bla bla?"
+2,embed,2,"This is the second item. Please read me.","What do you think bla bla?"
+3,pronoun,2,"This is the second item. Please read me.","In my opinion bla bla?"
+1,control,2,"This is the second item. Please read me.","What is bla bla?"

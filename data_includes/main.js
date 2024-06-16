@@ -28,7 +28,7 @@ newTrial("instructions",
     ,
     newText("Welcome!")
     ,
-    newText("In this task, you will have to read few sentences.")
+    newText("In this task, you will have to read few sentences, and answer questions.")
     ,
     newText("Are you ready?")
     ,

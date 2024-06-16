@@ -71,8 +71,8 @@ Template("stimuli.csv", row =>
 .log("group", row.group)
 .log("condition",row.condition)
 .log("item_no",row.item_no)
-.log("stimulus",row.stimulus)
 .log("question",row.question)
+.log("stimulus",row.stimulus)
 )
 
 newTrial("end",
